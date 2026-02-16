@@ -50,6 +50,11 @@ main article h1 + h2 {
   margin-top: 1.5rem !important;
 }
 
+/* Profile avatar: square with rounded corners instead of circle */
+article > header img.rounded-full {
+  border-radius: 12px !important;
+}
+
 .project-card:hover {
   transform: translateY(-2px);
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
