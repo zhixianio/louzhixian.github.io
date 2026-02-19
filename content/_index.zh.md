@@ -4,6 +4,14 @@ title: "知县的衙门"
 
 <div class="projects-grid">
 
+<a href="https://clawpal.zhixian.io" target="_blank" class="project-card">
+  <img src="/images/projects/clawpal.png" alt="ClawPal" class="project-logo">
+  <div class="project-info">
+    <h3 class="project-title">ClawPal</h3>
+    <p class="project-desc">OpenClaw 桌面管理工具</p>
+  </div>
+</a>
+
 <a href="https://botdrop.app" target="_blank" class="project-card">
   <img src="/images/projects/botdrop.png" alt="BotDrop" class="project-logo">
   <div class="project-info">
