@@ -25,6 +25,7 @@ mainSections = ["posts"]
   showMoreLinkDest = "posts"
   cardView = true
   cardViewScreenWidth = false
+  showSummary = true
 
 [article]
   showDate = true
@@ -43,6 +44,7 @@ mainSections = ["posts"]
   showHero = false
   showBreadcrumbs = true
   showTableOfContents = false
+  showSummary = true
   groupByYear = true
   cardView = true
   cardViewScreenWidth = false
