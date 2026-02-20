@@ -1,5 +1,5 @@
 ---
-title: "ClawPal: No More Hand-Editing JSON for Your AI Agent 🦞"
+title: "I Built a GUI Because OpenClaw Kept Breaking Its Own Config 🦞"
 date: 2026-02-20
 draft: false
 tags: ["AI", "OpenClaw", "Agent", "ClawPal"]
