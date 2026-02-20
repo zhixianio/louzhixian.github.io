@@ -16,7 +16,7 @@
       
       <guid>http://localhost:1313/en/posts/clawpal-tutorial/</guid>
       <description>&lt;blockquote&gt;&lt;p&gt;Ever asked your AI agent to modify its own config, only to watch it break itself? Then you spent an hour fixing it? Ever wanted a multi-agent Discord setup but couldn&amp;rsquo;t get the config right no matter how many tutorials you read?&lt;/p&gt;</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/clawpal-tutorial/cover.png" />
     </item>
     
   </channel>

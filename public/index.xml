@@ -16,7 +16,7 @@
       
       <guid>http://localhost:1313/posts/clawpal-tutorial/</guid>
       <description>&lt;blockquote&gt;&lt;p&gt;你有没有让你的🦞改过自己的配置？改完发现它把自己改坏了，然后你花了一小时帮它恢复？你是不是也想拥有一个多 Agent 为你打工的 Discord，但是看过很多教程，还是配不好这个虾？&lt;/p&gt;</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/clawpal-tutorial/cover.png" />
     </item>
     
     <item>
