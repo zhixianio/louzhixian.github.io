@@ -137,6 +137,7 @@ article > header img.rounded-full {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
   padding: 0 12px;
   flex: 1;
   min-width: 0;
@@ -147,6 +148,7 @@ article > header img.rounded-full {
   font-size: 13px;
   margin: 0 0 4px 0 !important;
   color: rgb(var(--color-neutral-800)) !important;
+  text-align: center;
 }
 .dark .podcast-title {
   color: rgb(var(--color-primary-400)) !important;
@@ -155,6 +157,7 @@ article > header img.rounded-full {
 .podcast-links {
   display: flex;
   gap: 8px;
+  justify-content: center;
 }
 
 .podcast-links a {
