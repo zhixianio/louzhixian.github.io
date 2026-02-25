@@ -34,7 +34,7 @@ title: "zhixian's site"
     <h3 class="podcast-title">认知有县</h3>
     <div class="podcast-links">
       <a href="https://www.xiaoyuzhoufm.com/podcast/699d656b384af58740cef00d" target="_blank" title="小宇宙">
-        <img src="/images/projects/xiaoyuzhou.svg" alt="小宇宙" class="nozoom">
+        <img src="/images/projects/xiaoyuzhou.png" alt="小宇宙" class="nozoom">
       </a>
       <a href="https://open.spotify.com/show/34rYkRrG5UzceVS6Sxet1l" target="_blank" title="Spotify">
         <img src="/images/projects/spotify.svg" alt="Spotify" class="nozoom">
