@@ -28,12 +28,22 @@ title: "知县的衙门"
   </div>
 </a>
 
-<a href="https://apple.co/4ay0hDL" target="_blank" class="project-card">
-  <img src="/images/projects/podcast.png" alt="认知有县" class="project-logo">
-  <div class="project-info">
-    <h3 class="project-title">认知有县</h3>
-    <p class="project-desc">脑洞想法与产品探索播客</p>
+<div class="podcast-card">
+  <img src="/images/projects/podcast.png" alt="认知有县" class="podcast-logo">
+  <div class="podcast-info">
+    <h3 class="podcast-title">认知有县</h3>
+    <div class="podcast-links">
+      <a href="https://www.xiaoyuzhoufm.com/podcast/699d656b384af58740cef00d" target="_blank" title="小宇宙">
+        <img src="/images/projects/xiaoyuzhou.svg" alt="小宇宙">
+      </a>
+      <a href="https://open.spotify.com/show/34rYkRrG5UzceVS6Sxet1l" target="_blank" title="Spotify">
+        <img src="/images/projects/spotify.svg" alt="Spotify">
+      </a>
+      <a href="https://apple.co/4ay0hDL" target="_blank" title="Apple Podcasts">
+        <img src="/images/projects/apple-podcasts.svg" alt="Apple Podcasts">
+      </a>
+    </div>
   </div>
-</a>
+</div>
 
 </div>
