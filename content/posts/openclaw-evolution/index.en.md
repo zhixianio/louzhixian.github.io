@@ -3,6 +3,10 @@ title: "From WhatsApp Script to AI Agent Platform: OpenClaw's Four-Month Evoluti
 date: 2026-03-04
 draft: false
 tags: ["AI", "OpenClaw", "Agent", "Open Source", "Product Evolution"]
+cover:
+  image: 'cover.png'
+  alt: 'OpenClaw Evolution'
+  relative: true
 ---
 
 > A source code analysis of 68 releases (v0.1.0 → v2026.3.1), tracing an AI product's real journey from 0 to 1.

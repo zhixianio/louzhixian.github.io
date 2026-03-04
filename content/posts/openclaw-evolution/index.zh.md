@@ -4,6 +4,10 @@ date: 2026-03-04
 draft: false
 isCJKLanguage: true
 tags: ["AI", "OpenClaw", "Agent", "开源", "产品演进"]
+cover:
+  image: 'cover.png'
+  alt: 'OpenClaw Evolution'
+  relative: true
 ---
 
 > 基于 68 个版本（v0.1.0 → v2026.3.1）的源码分析，复盘一个 AI 产品从 0 到 1 的真实路径。
