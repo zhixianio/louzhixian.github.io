@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>慢雾 on 知县的衙门</title>
+    <link>https://zhixian.io/tags/%E6%85%A2%E9%9B%BE/</link>
+    <description>Recent content in 慢雾 on 知县的衙门</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>© 2026 知县</copyright>
+    <lastBuildDate>Sun, 08 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://zhixian.io/tags/%E6%85%A2%E9%9B%BE/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Agent 训练师安全进阶：Agent 时代的攻防新范式</title>
+      <link>https://zhixian.io/posts/agent-trainer-security-advanced/</link>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhixian.io/posts/agent-trainer-security-advanced/</guid>
+      <description>&lt;blockquote&gt;&lt;p&gt;OpenClaw 爆火的同时，其安全问题也越来越多地浮出水面。无论是最近升级的重点，还是工信部发布的安全提醒文章，都让大家开始更多地关注🦞的安全问题。这一次，我们就从慢雾发布的一份极简安全实践指南开始，详细分析拆解一下Agent时代安全攻防的新范式&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zhixian.io/posts/agent-trainer-security-advanced/cover.png" />
+    </item>
+    
+  </channel>
+</rss>

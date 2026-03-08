@@ -1,1 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>多Agent on 知县的衙门</title><link>https://zhixian.io/tags/%E5%A4%9Aagent/</link><description>Recent content in 多Agent on 知县的衙门</description><generator>Hugo -- gohugo.io</generator><language>zh</language><copyright>© 2026 知县</copyright><lastBuildDate>Tue, 10 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://zhixian.io/tags/%E5%A4%9Aagent/index.xml" rel="self" type="application/rss+xml"/><item><title>Agent 训练师进阶课：OpenClaw 多 Agent 配置实战</title><link>https://zhixian.io/posts/agent-trainer-multi-agent-config/</link><pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate><guid>https://zhixian.io/posts/agent-trainer-multi-agent-config/</guid><description>&lt;p&gt;经过连续几天的奋战，我终于完成了在安卓上运行 OpenClaw 的工具 &lt;a href="https://botdrop.app" target="_blank" rel="noreferrer"&gt;botdrop.app&lt;/a&gt;，也总算有时间来&amp;quot;填坑&amp;quot;了。不知道最近小伙伴们有没有跟自己的 🦞 玩出更多新花样？我觉得这股风潮已经真正席卷到了各个角落，连我身边平时对科技不感兴趣的朋友也都来问我了。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zhixian.io/posts/agent-trainer-multi-agent-config/cover.png"/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>多Agent on 知县的衙门</title>
+    <link>https://zhixian.io/tags/%E5%A4%9Aagent/</link>
+    <description>Recent content in 多Agent on 知县的衙门</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>© 2026 知县</copyright>
+    <lastBuildDate>Tue, 10 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://zhixian.io/tags/%E5%A4%9Aagent/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Agent 训练师进阶课：OpenClaw 多 Agent 配置实战</title>
+      <link>https://zhixian.io/posts/agent-trainer-multi-agent-config/</link>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhixian.io/posts/agent-trainer-multi-agent-config/</guid>
+      <description>&lt;p&gt;经过连续几天的奋战，我终于完成了在安卓上运行 OpenClaw 的工具 &lt;a href=&#34;https://botdrop.app&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;botdrop.app&lt;/a&gt;，也总算有时间来&amp;quot;填坑&amp;quot;了。不知道最近小伙伴们有没有跟自己的 🦞 玩出更多新花样？我觉得这股风潮已经真正席卷到了各个角落，连我身边平时对科技不感兴趣的朋友也都来问我了。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zhixian.io/posts/agent-trainer-multi-agent-config/cover.png" />
+    </item>
+    
+  </channel>
+</rss>
