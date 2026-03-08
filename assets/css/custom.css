@@ -180,3 +180,38 @@ article > header img.rounded-full {
   width: 20px;
   height: 20px;
 }
+
+/* WeChat icon styling */
+.wechat-icon {
+  width: 72px;
+  height: 72px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #07C160;
+  padding: 16px;
+}
+
+.wechat-icon svg {
+  color: white !important;
+}
+
+/* Modal hidden state */
+.hidden {
+  display: none !important;
+}
+
+/* Dark mode modal */
+.dark #wechat-modal > div {
+  background: rgb(var(--color-neutral-800));
+}
+
+.dark #wechat-modal h3,
+.dark #wechat-modal p {
+  color: rgb(var(--color-neutral-200));
+}
+
+.dark #wechat-modal button {
+  background: rgb(var(--color-neutral-700));
+  color: rgb(var(--color-neutral-200));
+}
