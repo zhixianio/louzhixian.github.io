@@ -54,7 +54,7 @@ title: "知县的衙门"
   </div>
   <div class="project-info">
     <h3 class="project-title">公众号</h3>
-    <p class="project-desc">知县杂货铺</p>
+    <p class="project-desc">知县的衙门</p>
   </div>
 </div>
 
@@ -64,8 +64,8 @@ title: "知县的衙门"
 <div id="wechat-modal" class="hidden" style="position: fixed; inset: 0; z-index: 50; display: flex; align-items: center; justify-content: center; background: rgba(0,0,0,0.5);" onclick="if(event.target===this)this.classList.add('hidden')">
   <div style="background: white; border-radius: 1rem; padding: 1.5rem; margin: 1rem; max-width: 20rem; text-align: center; box-shadow: 0 25px 50px -12px rgba(0,0,0,0.25);">
     <h3 style="font-size: 1.25rem; font-weight: bold; margin-bottom: 1rem;">扫码关注公众号</h3>
-    <img src="/images/wechat-qr.jpg" alt="知县杂货铺" style="width: 16rem; height: 16rem; margin: 0 auto; border-radius: 0.75rem;">
-    <p style="margin-top: 1rem; color: #666;">知县杂货铺</p>
+    <img src="/images/wechat-qr.jpg" alt="知县的衙门" style="width: 16rem; height: 16rem; margin: 0 auto; border-radius: 0.75rem;">
+    <p style="margin-top: 1rem; color: #666;">知县的衙门</p>
     <button onclick="document.getElementById('wechat-modal').classList.add('hidden')" style="margin-top: 1rem; padding: 0.5rem 1.5rem; border-radius: 0.5rem; background: #eee; border: none; cursor: pointer;">关闭</button>
   </div>
 </div>
