@@ -283,11 +283,4 @@ Linux 下实现同一破坏效果的方式很多（find / -delete、Python 脚�
 
 *本文基于 SlowMist《OpenClaw 极简安全实践指南 v2.7》及《安全验证与攻防演练手册》*
 
----
 
-> 「Agent 训练师」系列往期回顾：
-> - [Agent 训练师入门指南：Clawdbot 配置与踩坑](/zh/posts/agent-trainer-guide-clawdbot/)
-> - [Agent 训练师安全课：Clawdbot 七步自检指南](/zh/posts/agent-trainer-security-clawdbot/)
-> - [Agent 训练师案例分享：用 Clawdbot 打造专属写作工作流](/zh/posts/agent-trainer-writing-workflow/)
-> - [Agent 训练师进阶指南：用 Discord 打造高效 OpenClaw 协作系统](/zh/posts/agent-trainer-discord-guide/)
-> - [Agent 训练师进阶课：OpenClaw 多 Agent 配置实战](/zh/posts/agent-trainer-multi-agent-config/)

@@ -282,11 +282,4 @@ So, [ClawPal](https://clawpal.xyz/) will follow this guide and try to build in a
 
 *This article is based on SlowMist's "OpenClaw Minimalist Security Practice Guide v2.7" and "Security Verification and Attack-Defense Drill Manual"*
 
----
 
-> "Agent Trainer" series archives:
-> - [Agent Trainer Beginner's Guide: Clawdbot Setup & Pitfalls](/posts/agent-trainer-guide-clawdbot/)
-> - [Agent Trainer Security Class: Clawdbot 7-Step Self-Check Guide](/posts/agent-trainer-security-clawdbot/)
-> - [Agent Trainer Case Study: Building Your Writing Workflow with Clawdbot](/posts/agent-trainer-writing-workflow/)
-> - [Agent Trainer Advanced Guide: Building an Efficient OpenClaw Collaboration System with Discord](/posts/agent-trainer-discord-guide/)
-> - [Agent Trainer Advanced Class: OpenClaw Multi-Agent Configuration](/posts/agent-trainer-multi-agent-config/)
