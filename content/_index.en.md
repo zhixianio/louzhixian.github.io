@@ -4,7 +4,7 @@ title: "zhixian's site"
 
 <div class="projects-grid">
 
-<a href="https://clawpal.zhixian.io" target="_blank" class="project-card">
+<a href="https://clawpal.xyz" target="_blank" class="project-card">
   <img src="/images/projects/clawpal.png" alt="ClawPal" class="project-logo">
   <div class="project-info">
     <h3 class="project-title">ClawPal</h3>
