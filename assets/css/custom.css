@@ -196,8 +196,8 @@ article > header img.rounded-full {
   color: white !important;
 }
 
-/* Modal hidden state */
-.hidden {
+/* Modal hidden state - use specific selector to avoid breaking Blowfish's responsive classes */
+#wechat-modal.hidden {
   display: none !important;
 }
 
